@@ -65,8 +65,7 @@ header {
 	gap: .5em;
 }
 .header_logo{
-   /* background-color: #0a3871;*/
-	display: flex;
+    background-color: #0a3871;
 	max-height: 45px;
 	height: 100%;
 	min-height: 40px;
