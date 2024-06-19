@@ -9,10 +9,15 @@ El siguiente archivo son los códigos con los que realice mi primer proyecto de 
 The Text Encrypter project is a web application developed using HTML, CSS, and JavaScript. It allows users to encrypt and decrypt text using a predefined substitution cipher. The cipher replaces specific vowels with corresponding codes:
 
 e becomes enter
+
 o becomes ober
+
 i becomes imes
+
 a becomes ai
+
 u becomes ufat
+
 Key Features:
 
 Encrypt: Converts user input text into the encrypted format based on the substitution cipher.
